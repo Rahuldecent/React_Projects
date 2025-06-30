@@ -1,4 +1,5 @@
 const data = [
+  
     {
       id  : '1',
       question: "What are accordion components?",
