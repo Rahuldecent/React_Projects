@@ -1,15 +1,16 @@
 
 import './App.css'
 import Accordian from './components/accordian/Index'
-import ImageSlider from './components/image-slider'
+import LoadMoreData from './components/load-more-data'
 
 function App() {
 
   return (
     <>
-      {/* <Accordian/> */}
+      {/* {/* <Accordian/> */}
 
-      <ImageSlider url={'https://picsum.photos/v2/list'}/>
+      <ImageSlider url={'https://picsum.photos/v2/list'}/> */}
+      <LoadMoreData/>
     </>
   )
 }
